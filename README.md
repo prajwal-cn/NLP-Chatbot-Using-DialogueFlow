@@ -8,6 +8,9 @@ This project aims to develop a Natural Language Processing (NLP)-based chatbot u
 
 ## Features
 
+<img width="755" alt="Bot" src="https://github.com/prajwal-cn/NLP-Chatbot-Using-DialogueFlow/assets/127007794/19ac9d27-996c-4316-863d-295d06cffd2a">
+
+
 The chatbot will possess the following key features:
 
 1. Natural Language Processing: Google Dialogflow will be used to process and understand the user's queries in a conversational format. It provides advanced NLP capabilities like intent recognition, entity extraction, and context management.
